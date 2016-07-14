@@ -8,6 +8,6 @@ In Factory pattern, we create object without exposing the creation logic to the 
 
 javac -cp . FactoryPatternDemo.java
 
-## run
+## Run
 
 java FactoryPatternDemo
